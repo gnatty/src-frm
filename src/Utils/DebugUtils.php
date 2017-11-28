@@ -1,6 +1,6 @@
 <?php
 
-namespace Router\Utils;
+namespace Sercan\Utils;
 
 class DebugUtils
 {
