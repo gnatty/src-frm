@@ -1,0 +1,21 @@
+
+
+________ GLOBAL
+- Faire un system de debug de la route courante recherchée.
+- Ajout de smarty.
+- Créer une interface pour Message et une classe à étendre.
+- Refaire la gestion de Message.
+- Gestion cookies, session
+- Resp json
+- Header HTTP
+
+________ ROUTER
+- Ajouter un nom à une route
+- Methode de redirection vers une route grâce à son nom et passage de paramètres.
+- Methode d affichage de x methode de controller ou de route sans redirection.
+- Gérer les params query.
+- Gestion retour code http
+
+________ MIDDLEWARE
+- A ajouter.
+
